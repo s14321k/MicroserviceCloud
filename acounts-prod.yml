@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SarathBank accounts related production APIs "
+  message: "Welcome to SarathBank accounts related webhook APIs "
   contactDetails:
     name: "Sarathkumar - Product Owner"
     email: "sarath@sarathbank.com"
